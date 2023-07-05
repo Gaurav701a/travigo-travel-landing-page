@@ -1,4 +1,5 @@
 # Travigo - Travel landing Website
+
 Welcome to Travigo, a travel information website built using React! Travigo provides you with detailed information about various travel destinations using data obtained through APIs.
 
 ## Table of Contents
