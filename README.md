@@ -50,6 +50,7 @@ To run Travigo locally on your machine, you need to have the following prerequis
 
 ### Installation
 
+
 Follow these steps to get started with Travigo:
 
 1. Clone the repository to your local machine:
